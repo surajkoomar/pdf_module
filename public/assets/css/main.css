@@ -1,0 +1,31 @@
+#header{
+	width:30%;
+}
+
+.date{
+	text-align: right;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.description{
+	width:20%;
+}
+
+.position{
+	width:5%;
+}
+
+.center{
+	text-align: center;
+}
+
+#footer{
+	width:35%;
+}
